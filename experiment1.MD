@@ -35,6 +35,7 @@ The EMPLOYEE table contains details such as employee number, name, job, manager,
 ```sql
 CREATE TABLE Employee_master AS
 SELECT * FROM Employee;
+```
 
 ![alt text](<output1.jpeg>)
 
