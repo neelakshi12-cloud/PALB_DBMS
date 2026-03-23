@@ -36,4 +36,4 @@ The EMPLOYEE table contains details such as employee number, name, job, manager,
 CREATE TABLE Employee_master AS
 SELECT * FROM Employee;
 
-c:\Users\Neelakshi\OneDrive\Desktop\output1.jpeg
+![alt text] (<c:\Users\Neelakshi\OneDrive\Desktop\output1.jpeg>)
