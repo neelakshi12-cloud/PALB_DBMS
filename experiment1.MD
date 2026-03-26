@@ -41,11 +41,6 @@ SELECT * FROM Employee;
 
 
 
-Delete records where DeptNo = 10
-DELETE FROM Employee_master
-WHERE DeptNo = 10;
-
-
 DELETE FROM Employee_master
 WHERE DeptNo = 10;
 
