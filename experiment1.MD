@@ -39,6 +39,13 @@ SELECT * FROM Employee;
 
 ![alt text](<output1.jpeg>)
 
+
+
+Delete records where DeptNo = 10
+DELETE FROM Employee_master
+WHERE DeptNo = 10;
+
+
 DELETE FROM Employee_master
 WHERE DeptNo = 10;
 
