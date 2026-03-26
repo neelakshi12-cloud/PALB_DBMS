@@ -39,4 +39,8 @@ SELECT * FROM Employee;
 
 ![alt text](<output1.jpeg>)
 
+![alt text](output1-1.jpeg)
+
+DELETE FROM Employee_master
+WHERE DeptNo = 10;
 
