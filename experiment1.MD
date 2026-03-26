@@ -42,3 +42,13 @@ SELECT * FROM Employee;
 DELETE FROM Employee_master
 WHERE DeptNo = 10;
 
+UPDATE Employee_master
+SET SAL = SAL + (SAL * 0.10)
+WHERE DeptNo = 20;
+
+ALTER TABLE Employee_master
+MODIFY SAL NUMBER(10,2);
+
+DROP TABLE Employee_master;
+
+
